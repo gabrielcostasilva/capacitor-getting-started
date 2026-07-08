@@ -1,0 +1,5 @@
+{
+  "appId": "app.simple",
+  "appName": "Simple Capacitor App",
+  "webDir": "dist"
+}
